@@ -1,2 +1,2 @@
 # Technophile-Bud-Task-3
-The Tak is to create a Personal Blog
+The Task is to create a Personal Blog
